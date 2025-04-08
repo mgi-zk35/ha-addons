@@ -1,5 +1,5 @@
 name: eBUSd-multi-instance-1
-version: "v24.1.1"
+version: "24.1.1"
 slug: ebusd-multi-instance-1
 description: >
   This Add-on runs eBUSd, a daemon for handling communication with eBUS devices
