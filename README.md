@@ -12,11 +12,17 @@ or created by mgi-zk35
 5. Install Addon.
 6. Follow Documentation, Setup and Install of the Add-on
 
-
-## [ebusd](https://github.com/LukasGrebe/ha-addons/tree/main/ebusd) 
+## ebusd-multi-instance-1
+### [ebusd](https://github.com/LukasGrebe/ha-addons/tree/main/ebusd) 
 
 This Add-on runs [ebusd](http://ebusd.eu), a daemon for handling communication with eBUS devices connected to a 2-wire bus system (“energy bus” used by numerous heating systems), in [Home Assistant OS](https://www.home-assistant.io/installation/raspberrypi). You can simply plugin a ebus hardware interface into your RaspberryPi, and install the addon to run ebusd.
 This addon is based on [ebusd](https://github.com/LukasGrebe/ha-addons/tree/main/ebusd) version 24.1.1 and only adjusted to run as instance 1 if you need more than one instance of ebusd in home assistant
+
+## ebusd-multi-instance-2
+### [ebusd](https://github.com/LukasGrebe/ha-addons/tree/main/ebusd) 
+
+This Add-on runs [ebusd](http://ebusd.eu), a daemon for handling communication with eBUS devices connected to a 2-wire bus system (“energy bus” used by numerous heating systems), in [Home Assistant OS](https://www.home-assistant.io/installation/raspberrypi). You can simply plugin a ebus hardware interface into your RaspberryPi, and install the addon to run ebusd.
+This addon is based on [ebusd](https://github.com/LukasGrebe/ha-addons/tree/main/ebusd) version 24.1.1 and only adjusted to run as instance 2 if you need more than one instance of ebusd in home assistant
 
 # Thanks ...
 
