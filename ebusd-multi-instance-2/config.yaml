@@ -1,11 +1,11 @@
-name: eBUSd
-version: "24.1.1"
-slug: ebusd
+name: eBUSd-multi-instance-2
+version: "v1.0.0-custom"
+slug: ebusd-multi-instance-2
 description: >
   This Add-on runs eBUSd, a daemon for handling communication with eBUS devices
   connected to a 2-wire bus system (“energy bus” used by numerous heating systems)
-  USB and network eBUSd adapters are supported.
-url: https://community.home-assistant.io/t/an-ebusd-add-on/344852
+  USB and network eBUSd adapters are supported. Runs as instance-2
+url: https://github.com/mgi-zk35/ha-addons/edit/main/ebusd-multi-instance-2/
 arch:
   - armhf
   - armv7
